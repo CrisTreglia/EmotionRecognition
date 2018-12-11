@@ -1,9 +1,8 @@
 ## Autores
 
-1. Cristofer Treglia
-2. Michel Candido
-3. Moyzes
-
+1. Cristofer Treglia <cristofertreglia@outlook.com>
+2. Michel Candido <michel@michelcandido.com.br>
+3. Moyzes <moyzes@gmail.com>
 
 ## Bibliotecas Utilizadas
 
